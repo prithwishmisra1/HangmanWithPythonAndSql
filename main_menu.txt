@@ -1,0 +1,7 @@
+*************************
+THE ULTIMATE HANGMAN GAME
+*************************
+1. CHOOSE TOPIC
+2. VIEW HIGH SCORES
+3. EXIT
+*************************

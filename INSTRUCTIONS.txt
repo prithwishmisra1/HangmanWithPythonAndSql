@@ -1,0 +1,2 @@
+1. Load the hangman.sql file into your localhost database
+2. open the Game.py file and enjoy
